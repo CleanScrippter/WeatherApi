@@ -1,0 +1,9 @@
+{
+  "name": "weather-api-function",
+  "version": "1.0.0",
+  "description": "Serverless function to fetch weather data",
+  "main": "api/weather.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
